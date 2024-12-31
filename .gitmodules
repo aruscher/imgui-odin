@@ -1,0 +1,6 @@
+[submodule "build/external/imgui"]
+	path = build/external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "build/external/dear_bindings"]
+	path = build/external/dear_bindings
+	url = https://github.com/dearimgui/dear_bindings.git
